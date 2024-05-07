@@ -144,17 +144,10 @@
     text-align: center;
     justify-content: center;
 }
-.contatos_box_titulo h1{
-    color: #FCE4A8;
-    font-size: 64px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-weight: bold;
-    margin-top: 130px;
-}
-.contatos_box_titulo h2{
-    color: #FFFFFF;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
+.contatos_box img{
+    width: 1000px;
+    height: 700px;
+    margin-top: 250px;
 }
 .footer{
     display: inline-flex;
